@@ -11,7 +11,7 @@ I served as the Program Manager at YALI Network Lagos, wherein I supported in th
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript, Linux Administion, and Cloud engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Product Manager, Technical Project Manager, Software Engineer, Cloud Engineer, or UI/UX Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1CBVboVOCqA7hhIKwaxePhk5Md0pcU-Jw/view?usp=sharing) and contact me by emailing ollunimati@gmail.com.
