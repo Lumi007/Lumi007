@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and a Community development advocate who currently works as a Technical Project Manager at [Olam PFB Nigeria](https://www.olamgroup.com/locations/africa/nigeria.html). I'm passionate about technology, documentation, cloud engineering, data analysis, salesforce automation, community development and digital rights advocacy...
 
-I am a tech enthusiast, an entrepreneur and a passionate change maker. Also a Tony Elumelu Foundation Alumni, I have over 7 years experience in the FMCG and NGO space having served as a projects and digital policy intern for Paradigm Initiative Nigeria and a hub lead for Strategy and Innovation for Development Initiative. 
+I am a tech enthusiast, an entrepreneur, passionate change maker and a digital markerting expert. Also a Tony Elumelu Foundation Alumni, I have over 7 years experience in the FMCG and NGO space having served as a projects and digital policy intern for Paradigm Initiative Nigeria and a hub lead for Strategy and Innovation for Development Initiative. 
 I served as the Program Manager at YALI Network Lagos, wherein I supported in the successful organization of YALI Network Lagos events and projects
 ![image](https://user-images.githubusercontent.com/29608250/184258996-a49a55a3-422b-4a3b-b26a-2fbb2105be46.png)
 
@@ -13,7 +13,7 @@ I served as the Program Manager at YALI Network Lagos, wherein I supported in th
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Product Manager, Technical Project Manager, Software Engineer, Cloud Engineer, or UI/UX Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1CBVboVOCqA7hhIKwaxePhk5Md0pcU-Jw/view?usp=sharing) and contact me by emailing ollunimati@gmail.com.
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=lumi007&show_icons=true&include_all_commits=true&hide_border=true" alt="Olumide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumi007&langs_count=8&layout=compact&hide_border=true" alt="Olumide's GitHub stats" /> |
