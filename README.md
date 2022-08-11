@@ -14,7 +14,7 @@ I served as the Program Manager at YALI Network Lagos, wherein I supported in th
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1CBVboVOCqA7hhIKwaxePhk5Md0pcU-Jw/view?usp=sharing) and contact me by emailing ollunimati@gmail.com.
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lumi007&show_icons=true&include_all_commits=true&hide_border=true" alt="Olumide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumi007&langs_count=8&layout=compact&hide_border=true" alt="Olumide's GitHub stats" /> |
 | ------------- | ------------- |
